@@ -6,7 +6,8 @@
 </div>
 
 <h3> What I'm working on:</h3>
-- Interning @FamilySearch developing in React<br>
+
+- Interning [@FamilySearch](https://github.com/familysearch) developing in React<br>
 - Graduating with Software Engineering degree in April 2023<br>
 - Remaking my web portfolio into the prettiest SPA you've ever seen<br>
 <hr>
