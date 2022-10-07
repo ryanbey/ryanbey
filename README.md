@@ -6,9 +6,9 @@
 
 <h3> What I'm working on:</h3>
 
-Interning <a href="https://github.com/familysearch" target="_blank">@FamilySearch</a> developing in React<br>
-Graduating with a Software Engineering degree in April 2023<br>
-Remaking my web portfolio into the prettiest SPA you've ever seen<br>
+:computer: Interning <a href="https://github.com/familysearch" target="_blank">@FamilySearch</a> developing in React<br>
+:mortar_board: Graduating with a Software Engineering degree in April 2023<br>
+:exploding_head: Remaking my web portfolio into the coolest SPA you've ever seen<br>
 
 <h3>Languages:</h3>
 
