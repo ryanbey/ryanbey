@@ -1,14 +1,13 @@
 <div align="center">
 <h3><b>Hi, I'm Ryan! :smile:</b></h3>
 
-[Check out my porfolio](https://ryanbey.github.io/portfolio/) for all of my favorite projects.
+<a href="https://ryanbey.github.io/portfolio/" target="_blank">Check out my portfolio</a> for all of my favorite projects.
 <hr>
-
 
 <h3> What I'm working on:</h3>
 
-Interning [@FamilySearch](https://github.com/familysearch) developing in React<br>
-Graduating with Software Engineering degree in April 2023<br>
+Interning <a href="https://github.com/familysearch" target="_blank">@FamilySearch</a> developing in React<br>
+Graduating with a Software Engineering degree in April 2023<br>
 Remaking my web portfolio into the prettiest SPA you've ever seen<br>
 
 <h3>Languages:</h3>
