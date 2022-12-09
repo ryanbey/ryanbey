@@ -8,7 +8,7 @@
 
 :computer: Interning <a href="https://github.com/familysearch" target="_blank">@FamilySearch</a> developing in React<br>
 :mortar_board: Graduating with a Software Engineering degree in April 2023<br>
-:exploding_head: Remaking my web portfolio into the coolest SPA you've ever seen<br>
+🏎️ Lightning fast, revamped stat tracking web app for iRacing members
 
 <h3>Languages:</h3>
 
