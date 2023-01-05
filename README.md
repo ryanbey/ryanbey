@@ -8,7 +8,7 @@
 
 :computer: Full-time Web Dev <a href="https://github.com/familysearch" target="_blank">@FamilySearch</a><br>
 :mortar_board: Graduating with a Software Engineering degree in April 2023<br>
-🏎️ Lightning fast, revamped stat tracking web app for iRacing members
+🏎️ Super cool stat tracking web app for iRacing members
 
 <h3>Languages:</h3>
 
