@@ -8,4 +8,4 @@
 
 :computer: Full-time Web Dev <a href="https://github.com/familysearch" target="_blank">@FamilySearch</a><br>
 💼 Redesigned personal portfolio page because why not<br>
-🏎️ Super cool stat tracking web app for iRacing members called [Nyoom](https://nyoom.app)
+🏎️ Super cool stat tracking web app for [iRacing](https://iracing.com) members called [Nyoom](https://nyoom.app)
