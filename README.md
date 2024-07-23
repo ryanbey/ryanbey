@@ -5,4 +5,3 @@ I'm a detail oriented and UX driven web developer that is passionate about pract
 <a href="https://ryanbey.github.io/portfolio/" target="_blank">Check out my outdated portfolio</a> for all of my favorite personal projects. Maybe I'll update it someday 😅
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,scss,cypress,jest)](https://skillicons.dev) and more!
-
