@@ -4,5 +4,6 @@ I'm a detail-oriented and UX-driven web developer passionate about creating prac
 
 <a href="https://ryanbey.github.io/portfolio/" target="_blank">Check out my outdated portfolio</a> for all of my favorite personal projects. Currently working on rewriting this with Astro for fun 🚀
 
+<br />
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,html,css,scss,cypress,jest)](https://skillicons.dev)
