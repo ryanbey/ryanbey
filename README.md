@@ -6,4 +6,4 @@ I'm a detail-oriented and UX-driven web developer passionate about creating prac
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,html,css,scss,nodejs,cypress,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,html,css,scss,nodejs,netlify,cypress,jest)](https://skillicons.dev)
